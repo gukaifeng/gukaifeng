@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **gukaifeng/gukaifeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://img.shields.io/badge/gender-%E2%99%82-yellow)
+![](https://img.shields.io/badge/age-24-green)
+
+
+![](https://img.shields.io/badge/ide-jetbrains-orange)
+![](https://img.shields.io/badge/editor-vscode-blue)
+![](https://img.shields.io/badge/editor-typora-white)
