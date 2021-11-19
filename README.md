@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 &nbsp;&nbsp;I’m currently learning Rust and RocksDB.  
 - 🤔 &nbsp;&nbsp;My personal blog is [gukaifeng.cn](https://gukaifeng.cn/). 
 - ... 
-- ![](https://img.shields.io/badge/gender-%E2%99%82-%23FFFACD) ![](https://img.shields.io/badge/age-24-green) ![](https://img.shields.io/badge/sign-%E2%99%8F-blueviolet)
+- ![](https://img.shields.io/badge/gender-%E2%99%82-yellow) ![](https://img.shields.io/badge/age-24-green) ![](https://img.shields.io/badge/sign-%E2%99%8F-blueviolet)
 - ![](https://img.shields.io/badge/lang-c%2Fc%2B%2B-%235589B0) ![](https://img.shields.io/badge/lang-rust-%23AA1844)
 - ![](https://img.shields.io/badge/ide-jetbrains-orange) ![](https://img.shields.io/badge/editor-vscode-blue) ![](https://img.shields.io/badge/editor-typora-white)
