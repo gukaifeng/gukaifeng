@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 - <a href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/ide-jetbrains-orange" alt="ide"></a> <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/editor-vscode-blue" alt="editor"></a> <a href="https://typora.io/"><img src="https://img.shields.io/badge/editor-typora-white" alt="editor"></a>
 - <a href="#"><img src="https://img.shields.io/badge/lang-c%2Fc%2B%2B-%235589B0" alt="lang"></a> <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/lang-rust-%23AA1844" alt="lang"></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gukaifeng&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=gukaifeng&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gukaifeng&layout=compact)![](https://github-readme-stats.vercel.app/api?username=gukaifeng&show_icons=true)
