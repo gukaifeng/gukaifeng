@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - <a href="#"><img src="https://img.shields.io/badge/lang-c%2Fc%2B%2B-%235589B0" alt="lang"></a> <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/lang-rust-%23AA1844" alt="lang"></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gukaifeng&layout=compact)![](https://github-readme-stats.vercel.app/api?username=gukaifeng&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gukaifeng&layout=compact" height="150px">&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gukaifeng&show_icons=true" height="150px">
