@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gukaifeng&layout=compact&theme=vue-dark&exclude_repo=gukaifeng.github.io" height="150px">](#) [<img src="https://github-readme-stats.vercel.app/api?username=gukaifeng&include_all_commits=true&show_icons=true&theme=vue-dark" height="150px">](#)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gukaifeng&layout=compact&theme=default&exclude_repo=gukaifeng.github.io" height="150px">](#) [<img src="https://github-readme-stats.vercel.app/api?username=gukaifeng&include_all_commits=true&show_icons=true&theme=default" height="150px">](#)
 
 
 <!-- Popular repositories  
