@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 &nbsp;&nbsp;I’m currently working in Beijing.  
-- 🌱 &nbsp;&nbsp;I’m currently learning Rust and RocksDB.  
+- 🌱 &nbsp;&nbsp;I’m currently learning Golang and JuiceFS.  
 - 🤔 &nbsp;&nbsp;My personal blog is [gukaifeng.cn](https://gukaifeng.cn/). 
 - ... 
 - <a href="#"><img src="https://img.shields.io/badge/gender-%E2%99%82-yellow" alt="age"></a> <a href="#"><img src="https://img.shields.io/badge/age-25-green" alt="age"></a> <a href="#"><img src="https://img.shields.io/badge/sign-%E2%99%8F-%238d64c5" alt="sign"></a>
